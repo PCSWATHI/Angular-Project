@@ -1,0 +1,13 @@
+.carousel-item activeimg  img {
+    float: left;
+    width: 20%;
+    height: 80%;
+    object-fit: cover;
+    padding: 3%;
+
+}
+h1{
+    text-align: center;
+    color: darkslateblue;
+}
+
